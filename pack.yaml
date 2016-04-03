@@ -1,0 +1,11 @@
+### Place information about your pack version here.
+---
+name: chronos
+description: StackStorm Chronos Integration Pack
+keywords:
+  - chronos
+  - mesos
+version: 0.1.0
+author: Javier Palomo Almena
+email: javier.palomo.almena@gmail.com
+
