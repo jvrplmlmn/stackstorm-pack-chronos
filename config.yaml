@@ -1,3 +1,7 @@
 ### Place configuration data for your pack here.
 ---
-
+servers:
+  - 'localhost'
+proto: 'http'
+username: ''
+password: ''
